@@ -26,7 +26,8 @@ Open Source PCB Files Engineered by AUDIY.
 
 ## Presentation Achievements
 1. [第15回ACRiウェビナー：X界隈のFPGAエンジニア集合！](https://acri.connpass.com/event/298957/)  
-Theme: Efinix Trionを使って嵌ったこと  
+Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1o-pCeE0zw?si=2i3ZyrXcQrpLXY6K&t=3636)
+
 
 ## My interest is
 1. FPGA
