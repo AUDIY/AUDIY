@@ -32,7 +32,7 @@ DSD Stream File (*.dsf) reader library written in C.
 Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1o-pCeE0zw?si=2i3ZyrXcQrpLXY6K&t=3636)
 
 
-## My interest is
+## My interests are
 1. FPGA
 2. Verilog HDL
 3. Python
