@@ -21,6 +21,8 @@ FPGA based PCM oversampling FIR filter (oversample ratio: 2).
 Verilog IP that AUDIY originally designed.  
 3. [AUDIY_OSPCB](https://github.com/AUDIY/AUDIY_OSPCB)  
 Open Source PCB Files Engineered by AUDIY.
+4. [DSFIO](https://github.com/AUDIY/DSFIO)  
+DSD Stream File (*.dsf) reader library written in C.
 
 ## Blog
 [電子回路わからん日記 (https://audio-diy.hatenablog.com/)](https://audio-diy.hatenablog.com/)
