@@ -42,7 +42,7 @@ Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1
 
 ## I'm learning
 1. C++
-2. SystemVerilog (includding SVA)
+2. SystemVerilog (including SVA)
 3. VHDL
 4. PSL assertion
 
