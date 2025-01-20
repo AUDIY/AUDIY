@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AUDIY" />
 </a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUDIY&layout=donut-vertical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUDIY&layout=donut" />
 </a>
 
 ## About me
