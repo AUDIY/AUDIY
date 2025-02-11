@@ -17,8 +17,8 @@ GitHub: [AUDIY](https://github.com/AUDIY)
 ## I'm currently working on
 1. [FIR_x2](https://github.com/AUDIY/FIR_x2)  
 FPGA based PCM oversampling FIR filter (oversample ratio: 2).
-2. [libsndfile-samples](https://github.com/AUDIY/libsndfile-samples)
-Samples for reading &amp; writing audio data which use [libsndfile](https://github.com/libsndfile/libsndfile).
+2. [libsndfile-samples](https://github.com/AUDIY/libsndfile-samples)  
+Samples for reading &amp; writing audio data which use [libsndfile](https://github.com/libsndfile/libsndfile).  
 3. [AUDIY_Verilog_IP](https://github.com/AUDIY/AUDIY_Verilog_IP)  
 Verilog IP that AUDIY originally designed.  
 4. [AUDIY_OSPCB](https://github.com/AUDIY/AUDIY_OSPCB)  
