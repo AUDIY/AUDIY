@@ -16,12 +16,14 @@ GitHub: [AUDIY](https://github.com/AUDIY)
 
 ## I'm currently working on
 1. [FIR_x2](https://github.com/AUDIY/FIR_x2)  
-FPGA based PCM oversampling FIR filter (oversample ratio: 2).  
-2. [AUDIY_Verilog_IP](https://github.com/AUDIY/AUDIY_Verilog_IP)  
+FPGA based PCM oversampling FIR filter (oversample ratio: 2).
+2. [libsndfile-samples](https://github.com/AUDIY/libsndfile-samples)
+Samples for reading &amp; writing audio data which use [libsndfile](https://github.com/libsndfile/libsndfile).
+3. [AUDIY_Verilog_IP](https://github.com/AUDIY/AUDIY_Verilog_IP)  
 Verilog IP that AUDIY originally designed.  
-3. [AUDIY_OSPCB](https://github.com/AUDIY/AUDIY_OSPCB)  
+4. [AUDIY_OSPCB](https://github.com/AUDIY/AUDIY_OSPCB)  
 Open Source PCB Files Engineered by AUDIY.
-4. [DSFIO](https://github.com/AUDIY/DSFIO)  
+5. [DSFIO](https://github.com/AUDIY/DSFIO)  
 DSD Stream File (*.dsf) reader library written in C.
 
 ## Blog
