@@ -21,9 +21,7 @@ FPGA based PCM oversampling FIR filter (oversample ratio: 2).
 Samples for reading &amp; writing audio data which use [libsndfile](https://github.com/libsndfile/libsndfile).  
 3. [AUDIY_Verilog_IP](https://github.com/AUDIY/AUDIY_Verilog_IP)  
 Verilog IP that AUDIY originally designed.  
-4. [AUDIY_OSPCB](https://github.com/AUDIY/AUDIY_OSPCB)  
-Open Source PCB Files Engineered by AUDIY.
-5. [DSFIO](https://github.com/AUDIY/DSFIO)  
+4. [DSFIO](https://github.com/AUDIY/DSFIO)  
 DSD Stream File (*.dsf) reader library written in C.
 
 ## Blog
@@ -40,7 +38,6 @@ Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1
 3. Python
 4. C/C++
 5. Audio Signal Processing
-6. Electronic Circuit Design
 
 ## I'm learning
 1. C++
