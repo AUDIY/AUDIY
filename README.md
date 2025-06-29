@@ -11,7 +11,7 @@
 ## About me
 An FPGA&CPLD engineer in a certain circuit design department.
 What a pretty circuit!  
-Twitter: [@AUDIY14](https://twitter.com/AUDIY14)  
+X (Twitter): [@AUDIY14](https://twitter.com/AUDIY14)  
 GitHub: [AUDIY](https://github.com/AUDIY)  
 
 ## I'm currently working on
