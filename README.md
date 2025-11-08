@@ -30,7 +30,8 @@ DSD Stream File (*.dsf) reader library written in C.
 ## Presentation Achievements
 1. [第15回ACRiウェビナー：X界隈のFPGAエンジニア集合！](https://acri.connpass.com/event/298957/)  
 Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1o-pCeE0zw?si=2i3ZyrXcQrpLXY6K&t=3636)
-
+2. [RTLを語る会(18) ～ おかえりaltera, こんにちはGowin (仮) ～](https://talkrtl.connpass.com/event/367389/)  
+Theme: [Questa FSEでアサーション検証やってみた](https://www.docswell.com/s/AUDIY/KYVJD3-2025-11-02-193838/1)
 
 ## My interests are
 1. FPGA
