@@ -33,6 +33,9 @@ Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1
 2. [RTLを語る会(18) ～ おかえりaltera, こんにちはGowin (仮) ～](https://talkrtl.connpass.com/event/367389/)  
 Theme: [Questa FSEでアサーション検証やってみた](https://www.docswell.com/s/AUDIY/KYVJD3-2025-11-02-193838/1)
 
+## Publications
+Coming soon...  
+
 ## My interests are
 1. FPGA
 2. Verilog HDL
