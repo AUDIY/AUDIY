@@ -34,7 +34,7 @@ Theme: [Efinix Trionを使って嵌ったこと](https://www.youtube.com/live/d1
 Theme: [Questa FSEでアサーション検証やってみた](https://www.docswell.com/s/AUDIY/KYVJD3-2025-11-02-193838/1)
 
 ## Publications
-Coming soon...  
+1. [Questa-Altera FPGA Starter Editionで始めるRTL検証](https://zenn.dev/audiy/books/fcd9c279361102)  
 
 ## My interests are
 1. FPGA
